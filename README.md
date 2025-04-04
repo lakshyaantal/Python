@@ -1,10 +1,14 @@
 
 Python for Data Science (NumPy, Pandas, Matplotlib) 
+
 Forbes Richest Athletes Analysis Project Summary
-Here's a summary of your Forbes Richest Athletes analysis project that you can add to your GitHub repository:
+
+
 
 Dataset: Analyzed Forbes Richest Athletes data from 1990-2019 containing information on athlete names, nationalities, rankings, sports, and earnings
+
 Data Processing: Used pandas for data manipulation and cleaning of the dataset containing 291 entries
+
 Exploratory Data Analysis: Created various visualizations to analyze patterns in athlete earnings and rankings
 
 Key Visualizations:
